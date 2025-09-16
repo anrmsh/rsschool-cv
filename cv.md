@@ -4,7 +4,7 @@
 * **LinkedIn:** [Linkedin](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D1%80-17a86b340/)  
 * **GitHub:** [https://github.com/anrmsh](https://github.com/anrmsh)
 
----
+
 
 ## PROFILE
 Passionate about software development and eager to apply my technical skills to real projects. Looking for an internship to grow professionally and become part of a strong team where I can learn from experienced professionals and develop my skills
