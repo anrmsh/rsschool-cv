@@ -1,1 +1,1 @@
-# rsschool-cv
+https://anrmsh.github.io/rsschool-cv/
